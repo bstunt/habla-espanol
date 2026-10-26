@@ -1,0 +1,10 @@
+{
+ "version": "1.0.0",
+ "notes": "First version with automatic updates",
+ "code": {
+  "url": "https://raw.githubusercontent.com/bstunt/habla-espanol/main/releases/habla-espanol-1.0.0.zip",
+  "sha256": "56990ab4fe9fa8923af39044fe32d57543ff2178b51a35b175856871fd654364",
+  "size": 2912190
+ },
+ "voices": []
+}
